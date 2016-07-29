@@ -14,9 +14,10 @@ Pod::Spec.new do |s|
   #  can feel like a chore to fill in it's definitely to your advantage. The
   #  summary should be tweet-length, and the description more in depth.
   #
+  #
 
   s.name         = "SMDBHelper"
-  s.version      = "0.0.1"
+  s.version      = "0.1.2"
   s.summary      = "SMDBHelper is a database operations, the second package based on SQLite3 system based on."
 
   # This description is used to generate tags and improve search results.
